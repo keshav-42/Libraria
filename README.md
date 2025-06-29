@@ -6,7 +6,8 @@ A user-friendly web application where book lovers can explore, review, and rate 
 
 ## 🖼️ Preview
 
-<img src="./frontend/public/libraria.png" alt="logo" height="400"/>
+<img src="./frontend/public/img1.png" alt="logo" height="400"/>
+<img src="./frontend/public/img2.png" alt="logo" height="400"/>
 
 ---
 
